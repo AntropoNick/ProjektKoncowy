@@ -6,7 +6,8 @@ This program compared calculation time for 5 sorting algorithm:
 - bubble sorting
 - counting sorting
 - quick list sorting
-    
+
+To run program open file compare.py
     
 ## Features
 ### Results
